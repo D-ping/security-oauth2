@@ -1,0 +1,6 @@
+POST http://localhost:8080/user/register
+
+<> 2019-11-10T102400.400.json
+
+###
+

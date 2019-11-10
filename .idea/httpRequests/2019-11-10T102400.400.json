@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-11-10T02:24:00.706+0000",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "Required request body is missing: public java.lang.String com.daiyuchuan.security.distributed.uaa.controller.UserController.registerUser(com.daiyuchuan.security.distributed.uaa.model.UserDo)",
+  "path": "/user/register"
+}
